@@ -2,7 +2,7 @@
 
 A simple React app for creating binary trees.
 
-![tree-creator](./tree-creator.png)
+![tree-creator](https://github.com/user-attachments/assets/f0fee139-1289-4d6d-b322-f1d3bb149ade)
 
 ## Usage
 
