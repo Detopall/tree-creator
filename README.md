@@ -2,6 +2,8 @@
 
 A simple React app for creating binary trees.
 
+![tree-creator](./tree-creator.png)
+
 ## Usage
 
 ```bash
@@ -16,6 +18,11 @@ npm run dev
 - Create a binary tree by inserting nodes.
 - Visualize the tree in a tree view.
 - Search for a node in the tree (DFS and BFS).
+
+## Demo
+
+The following YouTube link will contain the demo of the app:
+<https://youtu.be/id2FvRaWXXM>
 
 ## License
 
